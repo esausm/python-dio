@@ -1,0 +1,16 @@
+No conteúdo prático, tive a oportunidade de aprender como realizar diversas ações dentro do Microsoft 365, especialmente relacionadas à criação de copilotos com o uso de inteligência artificial. 
+
+Durante as aulas eu explorei:
+
+1. Conectar e Criar uma Conta no Microsoft 365: O primeiro passo foi aprender como acessar o Microsoft 365, criando uma conta e configurando-a adequadamente. 
+Esse processo foi fundamental para garantir o acesso aos recursos e ferramentas oferecidos pela plataforma, além de possibilitar o uso de IA e copilotos no ambiente corporativo.
+
+2. Criar um Copilot Baseado em Modelo: A criação de copilotos com base em modelos permite personalizar as interações e respostas de IA de acordo com templates pré-existentes. 
+Aqui, aprendi a usar modelos prontos, ajustando-os conforme as necessidades da minha organização ou tarefas específicas, o que facilita a automação e a assistência digital.
+
+3. Criar um Copilot Baseado em Descrição com IA: Neste passo, aprendi a criar copilotos com base em descrições detalhadas de como a IA deve interagir e o que ela deve aprender. 
+Além disso, essa abordagem oferece mais flexibilidade e personalização, permitindo que o copilot entenda e execute tarefas mais complexas de acordo com as instruções fornecidas.
+
+4. Criar um Copilot em Branco: A criação de um copilot em branco foi a etapa mais desafiadora, pois envolveu construir um assistente virtual do zero.
+A partir de uma página em branco, fui capaz de definir suas funções, escolher as interações que ele deveria realizar e até configurar a forma como a IA deveria aprender e se adaptar às novas tarefas. 
+Esse processo é ideal quando se busca um copilot altamente específico para necessidades particulares.
